@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EpicLdbTemplate",
+			"Path": "C:\\Users\\User\\Documents\\Unreal Projects\\RollingTower\\TheRollingTower 2.0\\Source\\EpicLdbTemplate.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EpicLdbTemplateEditor",
+			"Path": "C:\\Users\\User\\Documents\\Unreal Projects\\RollingTower\\TheRollingTower 2.0\\Source\\EpicLdbTemplateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

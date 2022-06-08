@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Documents\\Unreal Projects\\RollingTower\\TheRollingTower 2.0\\Source\\EpicLdbTemplate\\EpicLdbTemplate.Build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\RollingTower\\TheRollingTower 2.0\\Plugins\\EpicLeaderboard\\Source\\EpicLeaderboard\\EpicLeaderboard.Build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\RollingTower\\TheRollingTower 2.0\\Source\\EpicLdbTemplate.Target.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\RollingTower\\TheRollingTower 2.0\\Source\\EpicLdbTemplateEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
